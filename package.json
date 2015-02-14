@@ -1,0 +1,16 @@
+{
+    "name": "pomelo-client",
+    "version": "0.0.1",
+    "private": false,
+    "author": "<907756752@qq.com>",
+    "repository": {
+      "type": "git",
+      "url":  "git@github.com:huxd/pomelo-client.git"
+    },
+	"dependencies": {
+	  "pomelo-protobuf" : "0.4.0",
+      "pomelo-protocol" : "0.1.4",
+	  "pomelo-logger" : "0.1.7",
+      "ws": "0.7.1"
+	}
+}
